@@ -1,3 +1,6 @@
+# This is one sceneario directly tied to the Incident Handler's Journal activity.
+
+
 Review the following scenario. Then complete the step-by-step instructions.
 
 A small U.S. health care clinic specializing in delivering primary-care services experienced a security incident on a Tuesday morning, at approximately 9:00 a.m. Several employees reported that they were unable to use their computers to access files like medical records. Business operations shut down because employees were unable to access the files and software needed to do their job.
@@ -7,3 +10,7 @@ Additionally, employees also reported that a ransom note was displayed on their 
 The attackers were able to gain access into the company's network by using targeted phishing emails, which were sent to several employees of the company. The phishing emails contained a malicious attachment that installed malware on the employee's computer once it was downloaded.
 
 Once the attackers gained access, they deployed their ransomware, which encrypted critical files. The company was unable to access critical patient data, causing major disruptions in their business operations. The company was forced to shut down their computer systems and contact several organizations to report the incident and receive technical assistance.
+
+
+
+# The journal contains 4 entries from various activities.
